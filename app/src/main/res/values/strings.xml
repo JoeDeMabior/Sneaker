@@ -6,4 +6,8 @@
     <string name="best_of_2019">Best of 2019</string>
     <string name="game_of_the_year">Game of the Year</string>
     <string name="textview">TextView</string>
+    <string name="activity">Activity</string>
+    <string name="show_error">Show Error</string>
+    <string name="viewgroup">ViewGroup</string>
+    <string name="show_success">Show Success</string>
 </resources>
